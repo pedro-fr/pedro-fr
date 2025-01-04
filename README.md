@@ -4,7 +4,7 @@ I'm Pedro, a passionate student from Galicia (Spain) with a strong interest in b
 
 ## About Me
 
-- 🎓 I've recently graduated Biotechnology at USC (Universidade de Santiago de Compostela) and and am currently pursuing a Master's degree in Bioinformatics at ViU (Valencian International University).  
+- 🎓 I've recently graduated Biotechnology at USC (Universidade de Santiago de Compostela) and am currently pursuing a Master's degree in Bioinformatics at ViU (Valencian International University).  
 - 💼 I am enthusiastic about leveraging computational methods to solve biological problems.
 - 💻 My interests include -omic analysis, data visualization and machine learning/AI applications in biology.
 
